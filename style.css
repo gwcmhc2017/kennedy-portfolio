@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Adage", cursive;
+}
+p {
+  font-size: 22px; font-family: fantasy;
+  display: flex;
+  justify-content: center;
+}
+ul {
+  font-size:16px; font-family: fantasy;
+}
+
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+.box {
+  display: flex;
+  justify-content: space-around;
+}
